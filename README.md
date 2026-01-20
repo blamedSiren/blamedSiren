@@ -7,3 +7,12 @@
   - Java
   - HTML, CSS, Javascript
   - C++
+
+## Project Interests
+  - Gaming/anime related projects
+  - Creating and managing applications
+  
+## Current Upadtes
+  - Learning how to manage a team of developers and create solutions to problems
+  - Having fun continuing my coding journey :)
+  
