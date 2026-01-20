@@ -12,7 +12,7 @@
   - Gaming/anime related projects
   - Creating and managing applications
   
-## Current Upadtes
+## Current Updates
   - Learning how to manage a team of developers and create solutions to problems
   - Having fun continuing my coding journey :)
   
