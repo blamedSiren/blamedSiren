@@ -8,6 +8,9 @@
   - HTML, CSS, Javascript
   - C++
 
+## Hiring Status
+  Open to opportunities
+  
 ## Project Interests
   - Gaming/anime related projects
   - Creating and managing applications
