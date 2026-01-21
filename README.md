@@ -3,10 +3,12 @@
 
 ## Coding languages
   - Python
-  - Django
   - Java
   - HTML, CSS, Javascript
   - C++
+    
+## Frameworks
+  - Django
 
 ## Hiring Status
   Open to opportunities
